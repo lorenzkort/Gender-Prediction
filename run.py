@@ -1,5 +1,4 @@
 # Import libraries
-print('Importing libraries...', end=' ')
 import time
 start = time.time()
 import numpy as np
